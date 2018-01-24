@@ -4,6 +4,7 @@ Förskoleprylen
 ##
 * Åldersgrupp
 * 1-3
+* Data-Love (namn)
 
 ##
 * Färgblandning
