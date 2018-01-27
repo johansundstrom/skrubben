@@ -7,11 +7,12 @@ Förskoleprylen
 * Data-Love (namn)
 
 ##
-* Färgblandning
-Som barn 
-Vill jag styra färg
-Så att jag får kontroll 
-* Step up/down
+* Färgblandning -
+Som barn -
+Vill jag styra färg -
+Så att jag kan undersöka
+* Step up/down -
+Som pedagog - kan jag visa siffror - så att vi kan lära ordning 
 * Talsyntes
 * Avstånd
 * dB-mätare
