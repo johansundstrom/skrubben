@@ -8,6 +8,9 @@ Förskoleprylen
 
 ##
 * Färgblandning
+Som barn 
+Vill jag styra färg
+Så att jag får kontroll 
 * Step up/down
 * Talsyntes
 * Avstånd
